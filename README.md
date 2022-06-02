@@ -1,10 +1,6 @@
 # **Kan-Do**
 > The ability to do what others kan't
 
-## About
-
-This project is a way for individuals to organize their workspace and increase productivity. Taiichi Ōno, an industrial engineer at Toyota first developed an inventory control system used for just-in-time manufacturing. The name for this process directly translates to "Sign Board" and is also known, as Kanban. This idea sparked inspiration amongst the software community as many leaned into the idea of a just-in-time development cycle. Thus, the agile methodology of Kanban was born. 
-
 ## Table of Contents
 * [Requirements](#requirements)
 * [Releases](#releases)
